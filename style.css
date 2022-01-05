@@ -1,0 +1,45 @@
+body{
+    font-family: 'Abel', sans-serif;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Livvic', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.first-section{
+    
+}
+.first-section-div{
+    width: 80%;
+    padding-left: 5%;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 5px;
+}
+.first-section-div img{
+    width: 75%;
+}
+.royalblue-color{
+    color: royalblue;
+}
+h1{
+    font-weight: bold;
+}
+.first-section-div p{
+    box-shadow: 10px 10px 50px royalblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+.first-section-div p contact-id{
+    font-weight: bold;
+}
+.anchortag-color{
+    text-decoration: none;
+    display: in;
+    background-image:linear-gradient(royalblue, skyblue);
+    padding: 10px;
+    color: whitesmoke;
+    border-radius: 5px;
+    margin: 8px;
+}
